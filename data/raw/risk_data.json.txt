@@ -1,0 +1,14 @@
+[
+  {
+    "company_id": "C001",
+    "risk_score": 20,
+    "risk_category": "Low",
+    "last_updated": "2024-12-01T10:00:00"
+  },
+  {
+    "company_id": "C002",
+    "risk_score": 65,
+    "risk_category": "Medium",
+    "last_updated": "2024-12-01T10:05:00"
+  }
+]

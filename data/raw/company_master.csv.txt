@@ -1,0 +1,4 @@
+company_id,company_name,country,industry,incorporation_date,status
+C001,ABC Corp,USA,Finance,2005-06-12,Active
+C002,XYZ Ltd,India,IT,2010-09-20,Active
+C003,Global Tech,UK,Technology,2015-03-18,Inactive
